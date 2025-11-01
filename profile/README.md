@@ -11,7 +11,7 @@ We would love to help you build:
 - Custom websites using modern web best practices.
 - Maintainable deployment and management strategies for your infrastructure.
 - Efficient server-side software.
-- And lots more! Shoot us an email with your idea.
+- And lots more! Shoot us an email to set up a meeting.
 
 ## Expertise
 We also offer consulting services in the following areas:
@@ -24,5 +24,5 @@ We also offer consulting services in the following areas:
   - Java
 - Front-end website development
   - ReactJS, Typescript
-  - SSG (Hugo)
+  - Static site generation (Hugo)
   - CMS integration
